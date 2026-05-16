@@ -2,64 +2,80 @@
 <h3 align="center">MCA Student | Web Developer | Java Enthusiast</h3>
 
 <p align="center">
-Passionate about creating web applications and learning new technologies.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Profile!;MCA+Student;Web+Developer;Java+Learner&center=true&width=500&height=45">
+</p>
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 👩‍💻 About Me
+
+- 🎓 BCA Graduate
+- 🎓 Currently pursuing MCA
+- 💻 Passionate about Web Development
+- 🌱 Currently learning React
+- 🚀 Love building projects
+- 📍 Karnataka, India
+
+<br>
+
+### 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,html,css,javascript,php,mysql,git,github,vscode"/>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### 🚀 Featured Project
 
-🎓 BCA Graduate  
-🎓 Currently pursuing MCA  
-💻 Interested in Web Development & Java  
-🌱 Currently learning React and advanced development concepts  
-📍 Karnataka, India  
+## ✈️ Journey Makers
 
----
+Travel Agency Website Project
 
-## 🚀 Skills
+✨ Features:
 
-💡 Programming Languages  
-- Java  
-- PHP  
-- JavaScript  
-
-🎨 Frontend  
-- HTML  
-- CSS  
-
-🗄 Database  
-- MySQL  
-
-⚙ Tools  
-- Git  
-- GitHub  
-- XAMPP  
-
----
-
-## 📌 Projects
-
-### Journey Makers ✈️
-Travel agency website project featuring:
-
-✔ Tour Booking  
+✔ Tour Package Booking  
 ✔ Admin Dashboard  
-✔ User Management  
+✔ Manage Users  
 ✔ Query Management  
 ✔ QR Payment System  
 
-Tech Stack: HTML, CSS, PHP, MySQL
+🛠 Tech Stack:
+
+HTML | CSS | PHP | MySQL
 
 ---
 
-## 🎓 Education
+### 📊 GitHub Stats
 
-BCA Graduate  
-Currently Pursuing MCA
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+
+</p>
 
 ---
 
-## 📫 Connect with Me
+### 📈 Most Used Languages
 
-GitHub: https://github.com/YourUsername
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
+
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
