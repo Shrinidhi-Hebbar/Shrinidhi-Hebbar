@@ -9,8 +9,6 @@
 <img src="https://komarev.com/ghpvc/?username=Shrinidhi-Hebbar&label=Profile+Views&color=blue&style=flat"/>
 </p>
 
-<img align="right" alt="girl coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
 ## 👩‍💻 Professional Summary
 
 Entry-level Full Stack Developer with strong knowledge of web application development using HTML, CSS, JavaScript, PHP, MySQL, Python, and C. Experienced in developing responsive user interfaces, implementing backend logic, and managing databases through academic projects and internship experience.
