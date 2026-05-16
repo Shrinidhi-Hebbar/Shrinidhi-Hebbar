@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Shrinidhi-Hebbar&label=Profile+Views&color=blue&style=flat"/>
 </p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="girl coding" width="350" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ## 👩‍💻 Professional Summary
 
@@ -63,7 +63,7 @@ Presently Pursuing
 ### 🎓 Bachelor of Computer Applications (BCA)
 
 Rani Channamma University  
-BLDEA's Commerce BHS Arts and TGP Science College, Jamkhandi  
+BLDEA's Commerce BHS Arts and TGP Science College, Jamkhandi
 
 📅 2022 – 2025  
 ⭐ CGPA: 8.76
@@ -72,9 +72,9 @@ BLDEA's Commerce BHS Arts and TGP Science College, Jamkhandi
 
 ## 💼 Internship Experience
 
-### Web Development Intern
+### Web Development Intern  
 📍 InfiData Technologies, Bengaluru  
-*(ISO 9001:2015 Certified)*
+(ISO 9001:2015 Certified)
 
 📅 Feb 2025 – Mar 2025
 
@@ -98,20 +98,13 @@ HTML | CSS | JavaScript | PHP | MySQL
 
 ### Features:
 
-✔ User Registration and Login
-
-✔ Tour Package Management
-
-✔ Booking System
-
-✔ Admin Dashboard
-
-✔ Customer Query Management
-
-✔ CRUD Operations
-
-✔ Responsive Web Design
-
+✔ User Registration and Login  
+✔ Tour Package Management  
+✔ Booking System  
+✔ Admin Dashboard  
+✔ Customer Query Management  
+✔ CRUD Operations  
+✔ Responsive Web Design  
 ✔ Secure Backend Data Handling
 
 ---
@@ -128,22 +121,10 @@ HTML | CSS | JavaScript | PHP | MySQL
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinidhi-Hebbar&layout=compact"/>
-
-</p>
-
----
-
 ## 🌎 Languages Known
 
-✔ English – Professional
-
-✔ Kannada – Native
-
+✔ English – Professional  
+✔ Kannada – Native  
 ✔ Hindi – Basic
 
 ---
